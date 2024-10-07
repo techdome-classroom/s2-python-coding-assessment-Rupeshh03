@@ -23,4 +23,4 @@ class Solution(object):
                 total += roman_values[s[i]]
         
         # Return the final result
-        return tota
+        return total
